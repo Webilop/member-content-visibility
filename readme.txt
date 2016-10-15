@@ -30,3 +30,6 @@ If you have Visual Composer installed, an element called "(non) Member Container
 == Changelog ==
 = 1.0 =
 * Initial version
+= 1.1 =
+* Making non-member content visible for admins.
+
